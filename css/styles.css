@@ -1,0 +1,96 @@
+h1 {
+    color: white;
+    font-weight: bold;
+}
+
+h2 {
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+}
+
+table {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+.cover {
+    margin-top: -10px;
+    text-align: center;
+    height: 600px;
+    background-color: rgb(54, 54, 54);
+}
+
+.name {
+    position: relative;
+    top: -160px;
+    color: white;
+}
+
+.coverimg {
+    width: 60%; 
+    border-radius: 15px; 
+    opacity: 0.4;
+}
+
+.profileimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -170px;
+    border-radius: 100px;
+    border: solid 5px;
+    width: 200px;
+}
+
+.personal {
+    height: 600px;
+    background-color: rgb(27, 27, 27);
+}
+
+.intro {
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20%;
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: rgb(54, 54, 54);
+}
+
+.skill {
+    position: absolute;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 5%;
+    height: 500px;
+    width: 900px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: rgb(54, 54, 54);
+}
+
+#left {
+    float:left;width:50%;
+}
+
+#right {
+    float:right;width:50%;
+}
+
