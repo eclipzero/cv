@@ -68,7 +68,8 @@ background: linear-gradient(0deg, rgba(47,47,47,1) 0%, rgba(75,75,75,1) 21%, rgb
 }
 
 .personal {
-    height: 600px;
+    height: 100%;
+    padding: 50px;
     background-color: rgb(27, 27, 27);
 }
 
@@ -91,6 +92,17 @@ background: linear-gradient(0deg, rgba(47,47,47,1) 0%, rgba(75,75,75,1) 21%, rgb
     height: 500px;
     width: 900px;
     display: inline-block;
+    border-radius: 20px;
+    background-color: rgb(54, 54, 54);
+}
+
+.workexp {
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 20%;
+    height: 800px;
+    width: 1300px;
+    display: block;
     border-radius: 20px;
     background-color: rgb(54, 54, 54);
 }
