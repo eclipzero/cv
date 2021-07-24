@@ -32,7 +32,8 @@ a:hover {
     margin-top: -10px;
     text-align: center;
     height: 600px;
-    background-color: rgb(54, 54, 54);
+    background: rgb(47,47,47);
+background: linear-gradient(0deg, rgba(47,47,47,1) 0%, rgba(75,75,75,1) 21%, rgba(98,98,98,1) 45%, rgba(168,168,168,1) 89%, rgba(210,210,210,1) 100%);
 }
 
 .name {
