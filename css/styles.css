@@ -29,7 +29,7 @@ a:hover {
 }
 
 .sidebar {
-    height: 60px;
+    height: 10%;
     top: 0;
     background-color: rgb(31, 31, 31);
     position: sticky;
@@ -41,7 +41,7 @@ a:hover {
     text-align: center;
     height: 600px;
     background: rgb(47,47,47);
-background: linear-gradient(0deg, rgba(47,47,47,1) 0%, rgba(75,75,75,1) 21%, rgba(98,98,98,1) 45%, rgba(168,168,168,1) 89%, rgba(210,210,210,1) 100%);
+    background: linear-gradient(0deg, rgba(47,47,47,1) 0%, rgba(75,75,75,1) 21%, rgba(98,98,98,1) 45%, rgba(168,168,168,1) 89%, rgba(210,210,210,1) 100%);
 }
 
 .name {
@@ -78,7 +78,7 @@ background: linear-gradient(0deg, rgba(47,47,47,1) 0%, rgba(75,75,75,1) 21%, rgb
     margin-top: 20px;
     margin-left: 20%;
     height: 500px;
-    width: 300px;
+    width: 20%;
     display: inline-block;
     border-radius: 20px;
     background-color: rgb(54, 54, 54);
@@ -90,7 +90,7 @@ background: linear-gradient(0deg, rgba(47,47,47,1) 0%, rgba(75,75,75,1) 21%, rgb
     margin-top: 20px;
     margin-left: 5%;
     height: 500px;
-    width: 900px;
+    width: 60%px;
     display: inline-block;
     border-radius: 20px;
     background-color: rgb(54, 54, 54);
@@ -101,7 +101,7 @@ background: linear-gradient(0deg, rgba(47,47,47,1) 0%, rgba(75,75,75,1) 21%, rgb
     margin-top: 100px;
     margin-left: 20%;
     height: 800px;
-    width: 1300px;
+    width: 70%;
     display: block;
     border-radius: 20px;
     background-color: rgb(54, 54, 54);
