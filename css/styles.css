@@ -84,6 +84,13 @@ a:hover {
     background-color: rgb(54, 54, 54);
 }
 
+.icon-image {
+    position: relative;
+    bottom: 8px;
+    padding: 10px; 
+    float: left;
+}
+
 .skill {
     position: absolute;
     padding: 20px;
